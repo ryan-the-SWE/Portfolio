@@ -8,8 +8,20 @@
 </head>
 <body>
     <main>
-        <?php include("navigation.php") ?><br/>
-        <?php include("footer.php") ?>
+
+        <!-- HOLDS NAVIGATION INFORMATION (navigation.php)-->
+        <header>
+            <?php include("navigation.php") ?><br/>
+        </header>
+
+        <section>
+
+        </section>
+
+        <!-- HOLDS FOOTER INFORMATION (in footer.php) -->
+        <footer>
+            <?php include("footer.php") ?>
+        </footer>
     </main>
 </body>
 </html>
