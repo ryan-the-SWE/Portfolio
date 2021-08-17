@@ -7,6 +7,6 @@
     <title>Footer information</title>
 </head>
 <body>
-    <?php echo "Hello Footer" ?>
+    <?php echo "Hello Footer"?>
 </body>
 </html>
